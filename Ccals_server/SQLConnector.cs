@@ -45,9 +45,6 @@ namespace Ccals_server
         }
 
 
-
-
-
         public void Command(string str)
         {
             try
